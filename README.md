@@ -1,8 +1,8 @@
 # Payday Cheque ($PAYDAY)
 
-![make.fun bounty](https://make.fun/badge/makefun-coin-promo-01.svg)
-![rank](https://make.fun/badge/makefun-coin-promo-01/Ikball53/makefun-coin-promo-payday/rank.svg)
-![reward](https://make.fun/badge/makefun-coin-promo-01/Ikball53/makefun-coin-promo-payday/reward.svg)
+[![make.fun · makefun-coin-promo-01](https://make.fun/badge/makefun-coin-promo-01.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![rank](https://make.fun/badge/makefun-coin-promo-01/Ikball53/makefun-coin-promo-payday/rank.svg)](https://make.fun/bounty/makefun-coin-promo-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
+[![reward](https://make.fun/badge/makefun-coin-promo-01/Ikball53/makefun-coin-promo-payday/reward.svg)](https://make.fun/bounty/makefun-coin-promo-01?utm_source=github&utm_medium=readme&utm_campaign=makefun-coin-promo-01)
 
 Entry for the make.fun bounty: https://make.fun/bounty/makefun-coin-promo-01
 
